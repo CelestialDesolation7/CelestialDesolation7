@@ -1,4 +1,4 @@
-## %ArielleDynamic
+## ArielleDynamic
 
 一个喜欢敲代码的大三小南梁，业余整点物理学相关的玩具。
 
